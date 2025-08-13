@@ -17,7 +17,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-"var namagroup1 = 'K86';
+var namagroup1 = 'K86';
 var Comment1 = 'K86TOTO ( COMPASS81 ) : 85*03*15';
 var namagroup2 = 'TIKTAK';
 var Comment2 = 'Tiktaktogel / PIERO82 / 09 , 53 , 50';
@@ -50,7 +50,7 @@ var Comment15 = '#TOYIBSLOT ( RAFHEOO85 ) : 27*01*82';
 var namagroup16 = 'KEI';
 var Comment16 = '#keitogel = (EXODOS86) = 54*59*19';
 var namagroup17 = '453P';
-var Comment17 = 'ASEPTOGEL KRONIKEL87 69*38*76';"	
+var Comment17 = 'ASEPTOGEL KRONIKEL87 69*38*76';
 
 
 //Batas
