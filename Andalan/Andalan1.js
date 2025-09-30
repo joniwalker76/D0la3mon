@@ -4,7 +4,7 @@
 // @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan1.js
-// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan1.js?token=GHSAT0AAAAAADMHAFEG7GIXTA7KYP4ZJPZI2G36EVA
+// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
