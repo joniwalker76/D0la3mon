@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Makmur3
+// @name         Makmur4
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur3.js?token=GHSAT0AAAAAADMHAFEHF3KYGI5JF3PKCN6Q2G36CQQ
-// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur3.js?token=GHSAT0AAAAAADMHAFEHF3KYGI5JF3PKCN6Q2G36CQQ
+// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur4.js?token=GHSAT0AAAAAADMHAFEHF3KYGI5JF3PKCN6Q2G36CQQ
+// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur4.js?token=GHSAT0AAAAAADMHAFEHF3KYGI5JF3PKCN6Q2G36CQQ
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -17,46 +17,46 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
-var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
-var Comment1 = 'Tok99toto ( 88KAPUAS ) : 46*25*49';
+"var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var Comment1 = 'Tok99toto ( NAVASS ) : 34*02*27';
 var namagroup2 = 'G41B';
-var Comment2 = 'GAIB4D=77MAHAKAM=46*25*49';
+var Comment2 = 'GAIB4D=HAKIMII=34*02*27';
 var namagroup3 = '453P';
-var Comment3 = 'ASEPTOGEL 99BARITO 32*66*28';
+var Comment3 = 'ASEPTOGEL KIMPEMBEE 87*68*62';
 var namagroup4 = 'TIKTAKTOGEL';
-var Comment4 = 'Tiktaktogel / 66MAMBERAMO / 32 , 66 , 28';
+var Comment4 = 'Tiktaktogel / UGARTEE / 87 , 68 , 62';
 var namagroup5 = 'KUY';
-var Comment5 = 'TOGELKUY 55BEGAWAN 16*42*65';
+var Comment5 = 'TOGELKUY MARQUINHOO 45*05*47';
 var namagroup6 = 'GOHT0G3L';
-var Comment6 = 'GOHTOGEL=11KRAKATAU=16*42*65';
+var Comment6 = 'GOHTOGEL=VERRATTII=45*05*47';
 var namagroup7 = 'VESPA7093L';
-var Comment7 = 'VESPATOGEL (22RARONA) 31*74*90';
+var Comment7 = 'VESPATOGEL (MBAPPEE) 94*79*60';
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=33SADANG=31*74*90';
+var Comment8 = 'ANGKER4D=LIONELL=94*79*60';
 var namagroup9 = 'BUKU';
-var Comment9 = 'IYATOTO 66WARANAE 53*98*50';
+var Comment9 = 'IYATOTO RAMOSS 52*29*03';
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(77KAMPAR)*06*84*82';
+var Comment10 = '#JNETOTO(DEMBELEE)*11*40*61';
 var namagroup11 = 'TAFSIR';
-var Comment11 = 'SIJITOGEL 88TANDIKAT 33*51*12';
+var Comment11 = 'SIJITOGEL ASENSIOO 55*80*14';
 var namagroup12 = 'G1LA';
-var Comment12 = 'GILA4D=99TANGKUBAN=33*51*12';
+var Comment12 = 'GILA4D=PEREIRAA=55*80*14';
 var namagroup13 = 'SAHABAT';
-var Comment13 = 'K86TOTO ( 33KRAKATAU ) : 06*84*82';
+var Comment13 = 'K86TOTO ( SERGIOO ) : 11*40*61';
 var namagroup14 = 'KEITOGEL';
-var Comment14 = '#keitogel = (55SINGGALANG) = 53*98*50';
+var Comment14 = '#keitogel = (VITINHAA) = 52*29*03';
 var namagroup15 = 'SOSIAL';
-var Comment15 = 'SOSIAL4D = {22SUMBING} = 38*93';
+var Comment15 = 'SOSIAL4D = {MENDESS} = 88*44';
 var namagroup16 = 'SHIOKELINCI4D';
-var Comment16 = '#shiokelinci4d*77KERINCI*59*23';
-var namagroup17 = 'selatan';
-var Comment17 = 'utarabarat';
+var Comment16 = '#shiokelinci4d*BARCOLAA*10*36';
+var namagroup17 = 'telek';
+var Comment17 = 'ireng';"	
+
 
 
 //Batas
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Makmur 3';
+var Comment18 = 'Makmur 4';
 
 
 
