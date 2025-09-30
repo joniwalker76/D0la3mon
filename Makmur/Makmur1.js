@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur1.js?token=GHSAT0AAAAAADMHAFEHF3KYGI5JF3PKCN6Q2G36CQQ
-// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur1.js?token=GHSAT0AAAAAADMHAFEHF3KYGI5JF3PKCN6Q2G36CQQ
+// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur1.js
+// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
