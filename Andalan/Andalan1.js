@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan1
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan1.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan1.js
@@ -19,39 +19,39 @@
 
 
 var namagroup1 = 'SAHABAT';
-var Comment1 = 'K86TOTO ( MONKILL70 ) : 41*40*81';
-var namagroup2 = 'TAFSIR';
-var Comment2 = 'SIJITOGEL MONIX57 04*17*18';
-var namagroup3 = 'ALLPAS';
-var Comment3 = 'Tok99toto ( MOYONG58 ) : 61*76*57';
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=MONLIY59=61*76*57';
-var namagroup5 = 'BUKU';
-var Comment5 = 'IYATOTO MONTRIX60 04*17*18';
+var Comment1 = 'K86TOTO ( GODENT41 ) : 56*97*13';
+var namagroup2 = 'TIKTAKTOGEL';
+var Comment2 = 'Tiktaktogel / GOTIK21 / 79 , 08 , 44';
+var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var Comment3 = 'Tok99toto ( GOPROX31 ) : 43*45*99';
+var namagroup4 = 'ANGKER';
+var Comment4 = 'ANGKER4D=GOKER11=43*45*99';
+var namagroup5 = 'KUY';
+var Comment5 = 'TOGELKUY GOKIUY51 42*11*20';
 var namagroup6 = 'JNE';
-var Comment6 = '#JNETOTO(MONCRUT61)*83*37*49';
-var namagroup7 = 'DIVA';
-var Comment7 = '#DIVA4D (MONZELL62) = 89*74*65';
-var namagroup8 = 'KIOS';
-var Comment8 = 'KIOSTOTO=MOZALL63=89*74*65';
-var namagroup9 = 'TIKTAK';
-var Comment9 = 'Tiktaktogel / MONTREX64 / 45 , 46 , 38';
-var namagroup10 = '453P';
-var Comment10 = 'ASEPTOGEL MONCRIT65 45*46*38';
+var Comment6 = '#JNETOTO(GORIR61)*42*11*20';
+var namagroup7 = 'BUKU';
+var Comment7 = 'IYATOTO GOSLOT71 79*08*44';
+var namagroup8 = 'G41B';
+var Comment8 = 'GAIB4D=GOYOS81=56*97*13';
+var namagroup9 = 'PEDRO';
+var Comment9 = '#PEDRO4D (GOSHIO91*32*14)';
+var namagroup10 = 'VESPA7093L';
+var Comment10 = 'VESPATOGEL (GOESPA101) 32*14*64';
 var namagroup11 = 'G1LA';
-var Comment11 = 'GILA4D=MONLES66=02*09*39';
-var namagroup12 = 'KUY';
-var Comment12 = 'TOGELKUY MONBANK67 02*09*39';
-var namagroup13 = 'VESPA';
-var Comment13 = 'VESPATOGEL (MONIX57) 36*01*94';
-var namagroup14 = 'GOH';
-var Comment14 = 'GOHTOGEL=MONFANG69=36*01*94';
-var namagroup15 = 'ANGKER';
-var Comment15 = 'ANGKER4D=MONLIY59=00*41*40';
-var namagroup16 = 'KEI';
-var Comment16 = '#keitogel = (MONYUS71) = 41*40*81';
-var namagroup17 = 'TOYIB';
-var Comment17 = '#TOYIBSLOT ( MONWER68 ) : 83*37*49';
+var Comment11 = 'GILA4D=GOGIL12=58*98*91';
+var namagroup12 = 'DIVA4D';
+var Comment12 = '#DIVA4D (GOVADI32) = 58*98*91';
+var namagroup13 = 'TAFSIR';
+var Comment13 = 'SIJITOGEL GOYIB42 94*25*60';
+var namagroup14 = 'GOHT0G3L';
+var Comment14 = 'GOHTOGEL=GOGOH52=35*30*68';
+var namagroup15 = 'TOYIBSLOT';
+var Comment15 = '#TOYIBSLOT ( GORAT63 ) : 35*30*68';
+var namagroup16 = 'KEITOGEL';
+var Comment16 = '#keitogel = (GOIKE73) = 58*98*91';
+var namagroup17 = '453P';
+var Comment17 = 'ASEPTOGEL GOISEP83 25*60*18';
 
 
 //Batas
