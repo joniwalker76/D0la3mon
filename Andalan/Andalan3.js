@@ -17,11 +17,11 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'K86';
+var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( MEONG10 ) : 71*05*49';
-var namagroup2 = 'TIKTAK';
+var namagroup2 = 'TIKTAKTOGEL';
 var Comment2 = 'Tiktaktogel / GUKGUK20 / 61 , 57 , 90';
-var namagroup3 = 'ALLPAS';
+var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( PUSPUS30 ) : 63*29*47';
 var namagroup4 = 'ANGKER';
 var Comment4 = 'ANGKER4D=HALOHA40=63*29*47';
@@ -34,24 +34,23 @@ var Comment7 = 'IYATOTO CUITCUIT70 61*57*90';
 var namagroup8 = 'G41B';
 var Comment8 = 'GAIB4D=DIERDIER80=71*05*49';
 var namagroup9 = 'PEDRO';
-var Comment9 = '#PEDRO4D (GASGAS90*23*00*77#800)';
-var namagroup10 = 'VESPA';
+var Comment9 = '#PEDRO4D (GASGAS90*23*00)';
+var namagroup10 = 'VESPA7093L';
 var Comment10 = 'VESPATOGEL (SANASINI10) 23*00*77';
 var namagroup11 = 'G1LA';
 var Comment11 = 'GILA4D=PUKPUK20=62*04*92';
-var namagroup12 = 'DIVA';
+var namagroup12 = 'DIVA4D';
 var Comment12 = '#DIVA4D (ELUSELUS30) = 62*04*92';
 var namagroup13 = 'TAFSIR';
 var Comment13 = 'SIJITOGEL EAEAEA40 51*46*16';
-var namagroup14 = 'GOH';
+var namagroup14 = 'GOHT0G3L';
 var Comment14 = 'GOHTOGEL=TUINGTUING50=33*80*88';
-var namagroup15 = 'TOYIB';
+var namagroup15 = 'TOYIBSLOT';
 var Comment15 = '#TOYIBSLOT ( SIAPSIAP60 ) : 33*80*88';
-var namagroup16 = 'KEI';
+var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (KAMEHAME70) = 62*04*92';
 var namagroup17 = '453P';
 var Comment17 = 'ASEPTOGEL PURAPURA70 46*16*07';
-
 
 //Batas
 var namagroup18 = 'Jawatengah';
