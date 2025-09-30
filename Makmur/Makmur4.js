@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur4.js
-// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Makmur/Makmur4.js
+// @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
+// @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
