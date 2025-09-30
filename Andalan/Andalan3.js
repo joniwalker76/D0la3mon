@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
-// @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
+// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan3.js?token=GHSAT0AAAAAADMHAFEG7GIXTA7KYP4ZJPZI2G36EVA
+// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan3.js?token=GHSAT0AAAAAADMHAFEG7GIXTA7KYP4ZJPZI2G36EVA
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
