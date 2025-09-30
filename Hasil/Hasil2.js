@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Hasil1
+// @name         Hasil2
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Hasil1/Hasil1.js
-// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Hasil1/Hasil1.js
+// @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Hasil/Hasil2.js
+// @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Hasil/Hasil2.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -56,7 +56,7 @@ var Comment17 = 'selatan';
 
 //Batas
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Hasil 1';
+var Comment18 = 'Hasil 2';
 
 
 
