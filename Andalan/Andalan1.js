@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan1
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan1.js?token=GHSAT0AAAAAADMHAFEG7GIXTA7KYP4ZJPZI2G36EVA
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/Doraemon/refs/heads/main/Andalan/Andalan1.js?token=GHSAT0AAAAAADMHAFEG7GIXTA7KYP4ZJPZI2G36EVA
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'K86';
+var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( MONKILL70 ) : 41*40*81';
 var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL MONIX57 04*17*18';
