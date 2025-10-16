@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan3
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan3.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan3.js
@@ -46,7 +46,7 @@ var Comment13 = 'SIJITOGEL SANASINI10 51*46*16';
 var namagroup14 = 'GOHT0G3L';
 var Comment14 = 'GOHTOGEL=TUINGTUING50=33*80*88';
 var namagroup15 = 'TOYIBSLOT';
-var Comment15 = '#TOYIBSLOT ( SIAPSIAP60 ) : 33*80*88';
+var Comment15 = '#TOYIBSLOT ( EAEAEA40 ) : 33*80*88';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (KAMEHAME70) = 62*04*92';
 var namagroup17 = '453P';
