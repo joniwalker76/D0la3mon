@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
-var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+"var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment1 = 'Tok99toto ( MACANKUMU ) : 50*39*21';
 var namagroup2 = 'G41B';
 var Comment2 = 'GAIB4D=SINGAHUTAN=50*39*21';
@@ -36,7 +36,7 @@ var namagroup8 = 'G1LA';
 var Comment8 = 'GILA4D=KUDANILA=99*53*78';
 var namagroup9 = 'BUKU';
 var Comment9 = 'IYATOTO GAJAHAPI 87*09*81';
-var namagroup10 = 'GOHT0G3L';
+var namagroup10 = 'GOH';
 var Comment10 = 'GOHTOGEL=PHOENIXYZ=87*09*81';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL RUSAKUGAN 37*98*03';
@@ -48,11 +48,10 @@ var namagroup14 = 'KEITOGEL';
 var Comment14 = '#keitogel = (CAPUNGIPUNG) = 55*59*64';
 var namagroup15 = 'SOSIAL';
 var Comment15 = 'SOSIAL4D = {ULETLANGIT} = 07*11';
-var namagroup16 = 'SHIOKELINCI4D';
-var Comment16 = '#shiokelinci4d*AYAMTIRAM*48*80';
-var namagroup17 = 'barat';
-var Comment17 = 'utara';
-
+var namagroup16 = 'SK4D';
+var Comment16 = '#shiokelinci4d*ayamtiram*48*80';
+var namagroup17 = 'selatan';
+var Comment17 = 'timur';"	
 
 //Batas
 var namagroup18 = 'Jawatengah';
