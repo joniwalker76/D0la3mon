@@ -18,40 +18,40 @@
 // ==/UserScript==
 
 
-var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
-var Comment1 = 'Tok99toto ( HAMMER11 ) : 01*07*17';
+"var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var Comment1 = 'Tok99toto ( DLUFFY99 ) : 97*61*65';
 var namagroup2 = 'G41B';
-var Comment2 = 'GAIB4D=ZERO00=01*07*17';
+var Comment2 = 'GAIB4D=RORONOA12=97*61*65';
 var namagroup3 = '453P';
-var Comment3 = 'ASEPTOGEL ASKING22 54*41*85';
+var Comment3 = 'ASEPTOGEL NAMI54 35*94*22';
 var namagroup4 = 'TIKTAKTOGEL';
-var Comment4 = 'Tiktaktogel / SKETER33 / 54 , 41 , 85';
+var Comment4 = 'Tiktaktogel / SANJI52 / 35 , 94 , 22';
 var namagroup5 = 'KUY';
-var Comment5 = 'TOGELKUY ZOKEN55 78*69*72';
-var namagroup6 = 'GOH';
-var Comment6 = 'GOHTOGEL=FRIZA66=78*69*72';
+var Comment5 = 'TOGELKUY COBY09 23*19*24';
+var namagroup6 = 'JNE';
+var Comment6 = '#JNETOTO(SHANKS77)*66*44*96';
 var namagroup7 = 'VESPA7093L';
-var Comment7 = 'VESPATOGEL (FLEX77) 83*30*08';
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=STATIC88=83*30*08';
+var Comment7 = 'VESPATOGEL (BUGGY38) 86*28*84';
+var namagroup8 = 'G1LA';
+var Comment8 = 'GILA4D=NICOROBIN02=86*28*84';
 var namagroup9 = 'BUKU';
-var Comment9 = 'IYATOTO HERCULES99 48*19*57';
-var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(SPYDAK11)*63*09*64';
+var Comment9 = 'IYATOTO CHOPPER87 77*17*74';
+var namagroup10 = 'GOH';
+var Comment10 = 'GOHTOGEL=KAIDO29=77*17*74';
 var namagroup11 = 'TAFSIR';
-var Comment11 = 'SIJITOGEL PLOSEPEN77 13*70*99';
-var namagroup12 = 'G1LA';
-var Comment12 = 'GILA4D=PROSS88=13*70*99';
+var Comment11 = 'SIJITOGEL BUGGY38 63*06*85';
+var namagroup12 = 'ANGKER';
+var Comment12 = 'ANGKER4D=RORONOA12=63*06*85';
 var namagroup13 = 'SAHABAT';
-var Comment13 = 'K86TOTO ( DUCKTEL55 ) : 63*09*64';
+var Comment13 = 'K86TOTO ( JINBEI39 ) : 66*44*96';
 var namagroup14 = 'KEITOGEL';
-var Comment14 = '#keitogel = (LUCKY66) = 48*19*57';
+var Comment14 = '#keitogel = (KUZAN53) = 23*19*24';
 var namagroup15 = 'SOSIAL';
-var Comment15 = 'SOSIAL4D = {SONIC22} = 21*95';
+var Comment15 = 'SOSIAL4D = {WHITEBEARD10} = 26*16';
 var namagroup16 = 'SK4D';
-var Comment16 = '#shiokelinci4d*effyu11*86*15';
-var namagroup17 = 'utara';
-var Comment17 = 'selatan';
+var Comment16 = '#shiokelinci4d*DRACULE49*56*43';
+var namagroup17 = 'Utara';
+var Comment17 = 'Barat';
 
 
 //Batas
