@@ -28,7 +28,7 @@ var namagroup4 = 'TIKTAKTOGEL';
 var Comment4 = 'Tiktaktogel / SKETER33 / 54 , 41 , 85';
 var namagroup5 = 'KUY';
 var Comment5 = 'TOGELKUY ZOKEN55 78*69*72';
-var namagroup6 = 'GOHT0G3L';
+var namagroup6 = 'GOH';
 var Comment6 = 'GOHTOGEL=FRIZA66=78*69*72';
 var namagroup7 = 'VESPA7093L';
 var Comment7 = 'VESPATOGEL (FLEX77) 83*30*08';
@@ -39,7 +39,7 @@ var Comment9 = 'IYATOTO HERCULES99 48*19*57';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(SPYDAK11)*63*09*64';
 var namagroup11 = 'TAFSIR';
-var Comment11 = 'SIJITOGEL PLOSEPEN77 13*70*99';
+var Comment11 = 'SIJITOGEL FLEX77 13*70*99';
 var namagroup12 = 'G1LA';
 var Comment12 = 'GILA4D=PROSS88=13*70*99';
 var namagroup13 = 'SAHABAT';
@@ -48,7 +48,7 @@ var namagroup14 = 'KEITOGEL';
 var Comment14 = '#keitogel = (LUCKY66) = 48*19*57';
 var namagroup15 = 'SOSIAL';
 var Comment15 = 'SOSIAL4D = {SONIC22} = 21*95';
-var namagroup16 = 'SHIOKELINCI4D';
+var namagroup16 = 'SK4D';
 var Comment16 = '#shiokelinci4d*EFFYU11*86*15';
 var namagroup17 = 'utara';
 var Comment17 = 'selatan';
@@ -62,7 +62,7 @@ var Comment18 = 'Makmur 1';
 
 var SCRIPT_NAME = Comment18
 var refresh = 40;
-var URLADMIN = "https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Admin.json?token=GHSAT0AAAAAADI6JVY65ZRXQ7APMY5KPLMI2FFTR2A"
+var URLADMIN = "https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Admin.json"
 var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo","l0mb4","lomb4","l0mba","𝗥𝟬𝟬𝗠","𝗟𝟬𝗠𝗕𝗔","𝘙𝘖𝘖𝘔","hatori","klikh4tori001"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","r3kap","rek4p","undang" ]
 var isCommenting = false;
