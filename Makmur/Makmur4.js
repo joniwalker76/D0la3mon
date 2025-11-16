@@ -38,7 +38,7 @@ var Comment9 = 'IYATOTO RAMOSS 52*29*03';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(DEMBELEE)*11*40*61';
 var namagroup11 = 'TAFSIR';
-var Comment11 = 'SIJITOGEL ASENSIOO 55*80*14';
+var Comment11 = 'SIJITOGEL MBAPPEE 55*80*14';
 var namagroup12 = 'G1LA';
 var Comment12 = 'GILA4D=PEREIRAA=55*80*14';
 var namagroup13 = 'SAHABAT';
@@ -47,7 +47,7 @@ var namagroup14 = 'KEITOGEL';
 var Comment14 = '#keitogel = (VITINHAA) = 52*29*03';
 var namagroup15 = 'SOSIAL';
 var Comment15 = 'SOSIAL4D = {MENDESS} = 88*44';
-var namagroup16 = 'SHIOKELINCI4D';
+var namagroup16 = 'SK4D';
 var Comment16 = '#shiokelinci4d*BARCOLAA*10*36';
 var namagroup17 = 'telek';
 var Comment17 = 'ireng';"	
