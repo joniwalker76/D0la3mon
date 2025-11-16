@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil4
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil4.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil4.js
@@ -41,7 +41,7 @@ var Comment10 = 'GOHTOGEL=PHALANGES70=01*45*04';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL SACRUM64 70*71*18';
 var namagroup12 = 'ANGKER';
-var Comment12 = 'ANGKER4D=PATELLA74=70*71*18';
+var Comment12 = 'ANGKER4D=CERVICAL54=70*71*18';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( BATUALAM38 ) : 08*95*42';
 var namagroup14 = 'KEITOGEL';
