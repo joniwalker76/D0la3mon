@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur3
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur3.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur3.js
@@ -33,7 +33,7 @@ var Comment6 = 'GOHTOGEL=11KRAKATAU=16*42*65';
 var namagroup7 = 'VESPA7093L';
 var Comment7 = 'VESPATOGEL (22RARONA) 31*74*90';
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=33SADANG=31*74*90';
+var Comment8 = 'ANGKER4D=77MAHAKAM=31*74*90';
 var namagroup9 = 'BUKU';
 var Comment9 = 'IYATOTO 66WARANAE 53*98*50';
 var namagroup10 = 'JNE';
