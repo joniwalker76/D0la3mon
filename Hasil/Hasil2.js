@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil2
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil2.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil2.js
