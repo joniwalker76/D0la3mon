@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil3
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil3.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil3.js
@@ -220,13 +220,13 @@ if(document.location.href.includes("group")){
                         cekTombolUrutkan = false;
                         tombol.forEach(btn => {
                             if (countA < 3) {
-                                if (btn.textContent.includes("Postingan baru")) {
+                                if (btn.textContent.includes("Aktivitas terbaru")) {
                                     btn.click();
                                     countA++;
                                 }
                             } else {
                                 setTimeout(() => {
-                                    if (btn.textContent.includes("Aktivitas terbaru")) {
+                                    if (btn.textContent.includes("Paling relevan")) {
                                         btn.click();
                                         countA = 0;
                                     }
