@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur2
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur2.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur2.js
@@ -20,38 +20,38 @@
 
 var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment1 = 'Tok99toto ( CITIZEN71 ) : 20*35*56';
-var namagroup2 = 'G41B';
-var Comment2 = 'GAIB4D=SEIKO72=20*35*56';
+var namagroup2 = 'OPUNG';
+var Comment2 = 'OPUNG4D ( SEIKO72 ) : 20*35*56';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL NIXON73 22*96*58';
 var namagroup4 = 'TIKTAKTOGEL';
 var Comment4 = 'Tiktaktogel / FOSSIL74 / 22 , 96 , 58';
 var namagroup5 = 'KUY';
 var Comment5 = 'TOGELKUY VOSTOK75 89*73*26';
-var namagroup6 = 'GOH';
-var Comment6 = 'GOHTOGEL=MOVADO76=89*73*26';
-var namagroup7 = 'VESPA7093L';
+var namagroup6 = 'PEDRO';
+var Comment6 = '#PEDRO4D (MOVADO76*89*73*26)';
+var namagroup7 = 'VESPA';
 var Comment7 = 'VESPATOGEL (MONDAINE77) 76*37*04';
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=SEIKO72=76*37*04';
+var namagroup8 = 'NEMO';
+var Comment8 = 'NEMO4D (SEIKO72) : 76*37*04';
 var namagroup9 = 'BUKU';
 var Comment9 = 'IYATOTO TISSOT79 67*39*91';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(FARER80)*75*18*43';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL MONDAINE77 81*77*00';
-var namagroup12 = 'G1LA';
-var Comment12 = 'GILA4D=ZODIAC82=81*77*00';
+var namagroup12 = 'DIVA';
+var Comment12 = '#DIVA4D (ZODIAC82) = 81*77*00';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( OMEGA83 ) : 75*18*43';
-var namagroup14 = 'KEITOGEL';
+var namagroup14 = 'KEI';
 var Comment14 = '#keitogel = (CHANEL84) = 67*39*91';
-var namagroup15 = 'SOSIAL';
-var Comment15 = 'SOSIAL4D = {BVLGARI85} = 97*92';
-var namagroup16 = 'SK4D';
-var Comment16 = '#shiokelinci4d*MINAE86*24*71';
-var namagroup17 = 'barat';
-var Comment17 = 'utara';
+var namagroup15 = 'TOYIB';
+var Comment15 = '#TOYIBSLOT ( DAMASKO81 ) : 97*92*24';
+var namagroup16 = 'MAYAPADA';
+var Comment16 = 'BETT*Mayapada4D(BO)*MINAE86*97*92*71';
+var namagroup17 = 'selatan';
+var Comment17 = 'timur';
 
 
 //Batas
@@ -64,7 +64,7 @@ var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Admin.json"
 var keyword = ["▇ █","ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo","l0mb4","lomb4","l0mba","𝗥𝟬𝟬𝗠","𝗟𝟬𝗠𝗕𝗔","𝘙𝘖𝘖𝘔","hatori","klikh4tori001"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","r3kap","rek4p","undang" ]
+var Backlist =["pemenang","rekap","natidulu","freebet","prediksi","result","juara","r3k4p","r3kap","rek4p","undang" ]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
 var now = Date.now();
