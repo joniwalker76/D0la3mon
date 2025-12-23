@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur4
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
@@ -17,41 +17,41 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-"var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+
+var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment1 = 'Tok99toto ( NAVASS ) : 34*02*27';
-var namagroup2 = 'G41B';
-var Comment2 = 'GAIB4D=HAKIMII=34*02*27';
+var namagroup2 = 'OPUNG';
+var Comment2 = 'OPUNG4D ( HAKIMII ) : 34*02*27';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL KIMPEMBEE 87*68*62';
 var namagroup4 = 'TIKTAKTOGEL';
 var Comment4 = 'Tiktaktogel / UGARTEE / 87 , 68 , 62';
 var namagroup5 = 'KUY';
 var Comment5 = 'TOGELKUY MARQUINHOO 45*05*47';
-var namagroup6 = 'GOHT0G3L';
-var Comment6 = 'GOHTOGEL=VERRATTII=45*05*47';
-var namagroup7 = 'VESPA7093L';
+var namagroup6 = 'PEDRO';
+var Comment6 = '#PEDRO4D (VERRATTII*45*05*47)';
+var namagroup7 = 'VESPA';
 var Comment7 = 'VESPATOGEL (MBAPPEE) 94*79*60';
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=HAKIMII=94*79*60';
+var namagroup8 = 'NEMO';
+var Comment8 = 'NEMO4D (HAKIMII) : 94*79*60';
 var namagroup9 = 'BUKU';
 var Comment9 = 'IYATOTO RAMOSS 52*29*03';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(DEMBELEE)*11*40*61';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL MBAPPEE 55*80*14';
-var namagroup12 = 'G1LA';
-var Comment12 = 'GILA4D=PEREIRAA=55*80*14';
+var namagroup12 = 'DIVA';
+var Comment12 = '#DIVA4D (PEREIRAA) = 55*80*14';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( SERGIOO ) : 11*40*61';
-var namagroup14 = 'KEITOGEL';
+var namagroup14 = 'KEI';
 var Comment14 = '#keitogel = (VITINHAA) = 52*29*03';
-var namagroup15 = 'SOSIAL';
-var Comment15 = 'SOSIAL4D = {MENDESS} = 88*44';
-var namagroup16 = 'SK4D';
-var Comment16 = '#shiokelinci4d*BARCOLAA*10*36';
-var namagroup17 = 'telek';
-var Comment17 = 'ireng';"	
-
+var namagroup15 = 'TOYIB';
+var Comment15 = '#TOYIBSLOT ( ASENSIOO ) : 88*44*10';
+var namagroup16 = 'MAYAPADA';
+var Comment16 = 'BETT*Mayapada4D(BO)*BARCOLAA*88*44*36';
+var namagroup17 = 'kecamatan';
+var Comment17 = 'kabupaten';
 
 
 //Batas
@@ -64,7 +64,7 @@ var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Admin.json"
 var keyword = ["▇ █","ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo","l0mb4","lomb4","l0mba","𝗥𝟬𝟬𝗠","𝗟𝟬𝗠𝗕𝗔","𝘙𝘖𝘖𝘔","hatori","klikh4tori001"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","r3kap","rek4p","undang" ]
+var Backlist =["pemenang","rekap","natidulu","freebet","prediksi","result","juara","r3k4p","r3kap","rek4p","undang" ]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
 var now = Date.now();
