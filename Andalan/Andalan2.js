@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan2
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan2.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan2.js
@@ -51,7 +51,6 @@ var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (EXODOS86) = 54*59*19';
 var namagroup17 = '453P';
 var Comment17 = 'ASEPTOGEL KRONIKEL87 69*38*76';
-
 
 //Batas
 var namagroup18 = 'Jawatengah';
