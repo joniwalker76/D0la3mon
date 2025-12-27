@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan1
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan1.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan1.js
@@ -24,28 +24,28 @@ var namagroup2 = 'TIKTAKTOGEL';
 var Comment2 = 'Tiktaktogel / GOTIK21 / 79 , 08 , 44';
 var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( GOPROX31 ) : 43*45*99';
-var namagroup4 = 'ANGKER';
-var Comment4 = 'ANGKER4D=GOKER11=43*45*99';
+var namagroup4 = 'OPUNG';
+var Comment4 = 'OPUNG4D ( GOKER11 ) : 43*45*99';
 var namagroup5 = 'KUY';
 var Comment5 = 'TOGELKUY GOKIUY51 42*11*20';
-var namagroup6 = 'JNE';
-var Comment6 = '#JNETOTO(GORIR61)*42*11*20';
+var namagroup6 = 'Hoho';
+var Comment6 = 'GOHOHO : 42*11*20 #HOHOTOGEL';
 var namagroup7 = 'BUKU';
 var Comment7 = 'IYATOTO GOSLOT71 79*08*44';
-var namagroup8 = 'G41B';
-var Comment8 = 'GAIB4D=GOYOS81=56*97*13';
+var namagroup8 = 'HAT0R1';
+var Comment8 = '#HATORIBET*GOYOS81*56*97*13';
 var namagroup9 = 'PEDRO';
 var Comment9 = '#PEDRO4D (GOSHIO91*32*14*64)';
-var namagroup10 = 'VESPA7093L';
+var namagroup10 = 'VESPA';
 var Comment10 = 'VESPATOGEL (GOESPA101) 32*14*64';
-var namagroup11 = 'G1LA';
-var Comment11 = 'GILA4D=GOGIL12=58*98*91';
+var namagroup11 = 'NEMO';
+var Comment11 = 'NEMO4D (GOGIL12) : 58*98*91';
 var namagroup12 = 'DIVA4D';
 var Comment12 = '#DIVA4D (GOVADI32) = 58*98*91';
 var namagroup13 = 'TAFSIR';
 var Comment13 = 'SIJITOGEL GOESPA101 94*25*60';
-var namagroup14 = 'GOHT0G3L';
-var Comment14 = 'GOHTOGEL=GOTONO76=35*30*68';
+var namagroup14 = 'JNE';
+var Comment14 = '#JNETOTO(GORIR61)*35*30*68';
 var namagroup15 = 'TOYIBSLOT';
 var Comment15 = '#TOYIBSLOT ( GOYIB42 ) : 35*30*68';
 var namagroup16 = 'KEITOGEL';
