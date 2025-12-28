@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil1
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil1/Hasil1.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil1/Hasil1.js
@@ -17,11 +17,10 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
-"var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment1 = 'Tok99toto ( DLUFFY99 ) : 97*61*65';
-var namagroup2 = 'G41B';
-var Comment2 = 'GAIB4D=RORONOA12=97*61*65';
+var namagroup2 = 'OPUNG';
+var Comment2 = 'OPUNG4D ( RORONOA12 ) : 97*61*65';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL NAMI54 35*94*22';
 var namagroup4 = 'TIKTAKTOGEL';
@@ -32,26 +31,27 @@ var namagroup6 = 'JNE';
 var Comment6 = '#JNETOTO(SHANKS77)*66*44*96';
 var namagroup7 = 'VESPA7093L';
 var Comment7 = 'VESPATOGEL (BUGGY38) 86*28*84';
-var namagroup8 = 'G1LA';
-var Comment8 = 'GILA4D=NICOROBIN02=86*28*84';
+var namagroup8 = 'NEMO';
+var Comment8 = 'NEMO4D (NICOROBIN02) : 86*28*84';
 var namagroup9 = 'BUKU';
 var Comment9 = 'IYATOTO CHOPPER87 77*17*74';
-var namagroup10 = 'GOH';
-var Comment10 = 'GOHTOGEL=KAIDO29=77*17*74';
+var namagroup10 = 'HAT0R1';
+var Comment10 = '#HATORIBET*KAIDO29*77*17*74';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL BUGGY38 63*06*85';
-var namagroup12 = 'ANGKER';
-var Comment12 = 'ANGKER4D=RORONOA12=63*06*85';
+var namagroup12 = 'PEDRO';
+var Comment12 = '#PEDRO4D (RORONOA12*63*06*85)';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( JINBEI39 ) : 66*44*96';
 var namagroup14 = 'KEITOGEL';
 var Comment14 = '#keitogel = (KUZAN53) = 23*19*24';
-var namagroup15 = 'SOSIAL';
-var Comment15 = 'SOSIAL4D = {WHITEBEARD10} = 26*16';
-var namagroup16 = 'SK4D';
-var Comment16 = '#shiokelinci4d*DRACULE49*56*43';
-var namagroup17 = 'Utara';
-var Comment17 = 'Barat';
+var namagroup15 = 'TOYIB';
+var Comment15 = '#TOYIBSLOT ( BOAHANCOK01 ) : 26*16*56';
+var namagroup16 = 'DIVA';
+var Comment16 = '#DIVA4D (DRACULE49) = 26*56*43';
+var namagroup17 = 'barat';
+var Comment17 = 'utara';
+
 
 
 //Batas
