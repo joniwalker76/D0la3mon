@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil2
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil2.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil2.js
@@ -18,10 +18,10 @@
 // ==/UserScript==
 
 
-"var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment1 = 'Tok99toto ( ALGORES01 ) : 40*49*29';
-var namagroup2 = 'G41B';
-var Comment2 = 'GAIB4D=JASKELING02=40*49*29';
+var namagroup2 = 'OPUNG';
+var Comment2 = 'OPUNG4D ( JASKELING02 ) : 40*49*29';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL HOWARD03 69*34*31';
 var namagroup4 = 'TIKTAKTOGEL';
@@ -32,26 +32,26 @@ var namagroup6 = 'JNE';
 var Comment6 = '#JNETOTO(STARLIG06)*14*12*58';
 var namagroup7 = 'VESPA7093L';
 var Comment7 = 'VESPATOGEL (ADRAMA07) 00*67*60';
-var namagroup8 = 'G1LA';
-var Comment8 = 'GILA4D=ONLINY08=00*67*60';
+var namagroup8 = 'NEMO';
+var Comment8 = 'NEMO4D (ONLINY08) : 00*67*60';
 var namagroup9 = 'BUKU';
 var Comment9 = 'IYATOTO NOELKA09 13*68*15';
-var namagroup10 = 'GOH';
-var Comment10 = 'GOHTOGEL=PLUTOX10=13*68*15';
+var namagroup10 = 'HAT0R1';
+var Comment10 = '#HATORIBET*PLUTOX10*13*68*15';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL ADRAMA07 91*10*73';
-var namagroup12 = 'ANGKER';
-var Comment12 = 'ANGKER4D=JASKELING02=91*10*73';
+var namagroup12 = 'PEDRO';
+var Comment12 = '#PEDRO4D (JASKELING02*91*10*73)';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( PIOMER12 ) : 14*12*58';
 var namagroup14 = 'KEITOGEL';
 var Comment14 = '#keitogel = (XTCMODS13) = 76*47*72';
-var namagroup15 = 'SOSIAL';
-var Comment15 = 'SOSIAL4D = {GROLES14} = 92*54';
-var namagroup16 = 'SK4D';
-var Comment16 = '#shiokelinci4d*antgi15*57*02';
-var namagroup17 = 'barat';
-var Comment17 = 'utara';"	
+var namagroup15 = 'TOYIB';
+var Comment15 = '#TOYIBSLOT ( MAYBACH11 ) : 92*54*57';
+var namagroup16 = 'DIVA';
+var Comment16 = '#DIVA4D (ANTGI15) = 92*57*02';
+var namagroup17 = 'selatan';
+var Comment17 = 'barat';
 
 
 //Batas
