@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur3
 // @namespace    http://tampermonkey.net/
-// @version      3.6
+// @version      3.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur3.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur3.js
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
-var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( 88KAPUAS ) : 46*25*49';
 var namagroup2 = 'OPUNG';
 var Comment2 = 'OPUNG4D ( 77MAHAKAM ) : 46*25*49';
