@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil4
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil4.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil4.js
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
-var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( SKULU52 ) : 32*27*93';
 var namagroup2 = 'OPUNG';
 var Comment2 = 'OPUNG4D ( CERVICAL54 ) : 32*27*93';
