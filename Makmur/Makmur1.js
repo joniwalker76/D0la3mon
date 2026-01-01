@@ -221,7 +221,7 @@ if(document.location.href.includes("group")){
                         cekTombolUrutkan = false;
                         tombol.forEach(btn => {
                             if (countA < 3) {
-                                if (btn.textContent.includes("Postingan terbaru")) {
+                                if (btn.textContent.includes("Postingan baru")) {
                                     btn.click();
                                     countA++;
                                 }
