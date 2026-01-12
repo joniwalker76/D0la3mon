@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan1
 // @namespace    http://tampermonkey.net/
-// @version      3.7
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan1.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan1.js
@@ -29,7 +29,7 @@ var Comment4 = 'OPUNG4D ( GOKER11 ) : 43*45*99';
 var namagroup5 = 'KUY';
 var Comment5 = 'TOGELKUY GOKIUY51 42*11*20';
 var namagroup6 = 'Hoho';
-var Comment6 = 'GOHOHO : 42*11*20 #HOHOTOGEL';
+var Comment6 = 'GOTONO76 : 42*11*20 #HOHOTOGEL';
 var namagroup7 = 'BUKU';
 var Comment7 = 'IYATOTO GOSLOT71 79*08*44';
 var namagroup8 = 'HAT0R1';
@@ -64,7 +64,7 @@ var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Admin.json"
 var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo","l0mb4","lomb4","l0mba","𝗥𝟬𝟬𝗠","𝗟𝟬𝗠𝗕𝗔","𝘙𝘖𝘖𝘔","hatori","klikh4tori001"]
-var Backlist =["pemenang","rekap","natidulu","prediksi","result","r3k4p","r3kap","rek4p" ]
+var Backlist =["pemenang","𝗥𝗘𝗞𝗔𝗣","natidulu","prediksi","result","r3k4p","r3kap","rekap" ]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
 var now = Date.now();
