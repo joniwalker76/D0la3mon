@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan2
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan2.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan2.js
@@ -352,7 +352,7 @@ async function botKoment(mutatin) {
                 const textarea = document.querySelector(".multi-line-floating-textbox");
                 const sendBtn = document.querySelector(".textbox-submit-button");
                 if (textarea && sendBtn) {
-                    textarea.focus();
+                    
                     textarea.value = commentToPost;
                     sendBtn.disabled = false;
                     const clickEvent = document.createEvent("MouseEvents");
@@ -452,7 +452,7 @@ function mulaiRefresh() {
     if (myrefresh !== null) return; // Hindari duplikat interval
 
     myrefresh = setInterval(function () {
-        var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+        var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea'], [data-mcomponent='TextArea']");
         var waktupost = document.getElementsByClassName("native-text");
 
         if (!document.querySelectorAll("[role='presentation']")[0]) {
