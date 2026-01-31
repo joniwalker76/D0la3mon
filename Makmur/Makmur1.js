@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur1
 // @namespace    http://tampermonkey.net/
-// @version      4.1
+// @version      4.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur1.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur1.js
@@ -454,7 +454,7 @@ function mulaiRefresh() {
     if (myrefresh !== null) return; // Hindari duplikat interval
 
     myrefresh = setInterval(function () {
-        var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+        var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea'], [data-mcomponent='TextArea']");
         var waktupost = document.getElementsByClassName("native-text");
 
         if (!document.querySelectorAll("[role='presentation']")[0]) {
