@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil3
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil3.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil/Hasil3.js
@@ -17,8 +17,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
-var namagroup1 = 'ALLPAS';
+"var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( MACANKUMU ) : 50*39*21';
 var namagroup2 = 'OPUNG';
 var Comment2 = 'OPUNG4D ( SINGAHUTAN ) : 50*39*21';
@@ -27,21 +26,21 @@ var Comment3 = 'ASEPTOGEL KELINCIHOKI 38*83*41';
 var namagroup4 = 'TIKTAKTOGEL';
 var Comment4 = 'Tiktaktogel / NAGAUNGU / 38 , 83 , 41';
 var namagroup5 = 'KUY';
-var Comment5 = 'TOGELKUY BADAKEMAS 55*59*64';
+var Comment5 = 'TOGELKUY BADAKEMAS 99*53*78';
 var namagroup6 = 'JNE';
 var Comment6 = '#JNETOTO(GORILLAWIN)*52*33*46';
 var namagroup7 = 'VESPA7093L';
-var Comment7 = 'VESPATOGEL (RUSAKUGAN) 99*53*78';
+var Comment7 = 'VESPATOGEL (RUSAKUGAN) 37*98*03';
 var namagroup8 = 'NEMO';
 var Comment8 = 'NEMO4D (KUDANILA) : 99*53*78';
 var namagroup9 = 'BUKU';
-var Comment9 = 'IYATOTO GAJAHAPI 87*09*81';
+var Comment9 = 'IYATOTO GAJAHAPI 55*59*64';
 var namagroup10 = 'HAT0R1';
 var Comment10 = '#HATORIBET*PHOENIXYZ*87*09*81';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL RUSAKUGAN 37*98*03';
 var namagroup12 = 'PEDRO';
-var Comment12 = '#PEDRO4D (SINGAHUTAN*37*98*03)';
+var Comment12 = '#PEDRO4D (SINGAHUTAN*87*09*81)';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( KUMBANGEMAS ) : 52*33*46';
 var namagroup14 = 'KEITOGEL';
@@ -50,8 +49,9 @@ var namagroup15 = 'TOYIB';
 var Comment15 = '#TOYIBSLOT ( KERAHITAM ) : 07*11*48';
 var namagroup16 = 'DIVA';
 var Comment16 = '#DIVA4D (AYAMTIRAM) = 07*48*80';
-var namagroup17 = 'kabupaten';
-var Comment17 = 'kecamatan';
+var namagroup17 = 'kecamatan';
+var Comment17 = 'kabupaten';
+
 
 //Batas
 var namagroup18 = 'Jawatengah';
@@ -60,7 +60,7 @@ var Comment18 = 'Hasil 3';
 
 
 var SCRIPT_NAME = Comment18
-var refresh = 60;
+var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Admin.json"
 var keyword = ["▇ █","ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo","l0mb4","lomb4","l0mba","𝗥𝟬𝟬𝗠","𝗟𝟬𝗠𝗕𝗔","𝘙𝘖𝘖𝘔","hatori","klikh4tori001"]
 var Backlist =["pemenang","rekap","natidulu","prediksi","result","𝗥𝗘𝗞𝗔𝗣","r3kap","rek4p" ]
