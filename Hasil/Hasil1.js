@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil1
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil1/Hasil1.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil1/Hasil1.js
@@ -17,7 +17,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'ALLPAS';
+"var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( DLUFFY99 ) : 97*61*65';
 var namagroup2 = 'OPUNG';
 var Comment2 = 'OPUNG4D ( RORONOA12 ) : 97*61*65';
@@ -26,21 +26,21 @@ var Comment3 = 'ASEPTOGEL NAMI54 35*94*22';
 var namagroup4 = 'TIKTAKTOGEL';
 var Comment4 = 'Tiktaktogel / SANJI52 / 35 , 94 , 22';
 var namagroup5 = 'KUY';
-var Comment5 = 'TOGELKUY COBY09 23*19*24';
+var Comment5 = 'TOGELKUY COBY09 86*28*84';
 var namagroup6 = 'JNE';
 var Comment6 = '#JNETOTO(SHANKS77)*66*44*96';
 var namagroup7 = 'VESPA7093L';
-var Comment7 = 'VESPATOGEL (BUGGY38) 86*28*84';
+var Comment7 = 'VESPATOGEL (BUGGY38) 63*06*85';
 var namagroup8 = 'NEMO';
 var Comment8 = 'NEMO4D (NICOROBIN02) : 86*28*84';
 var namagroup9 = 'BUKU';
-var Comment9 = 'IYATOTO CHOPPER87 77*17*74';
+var Comment9 = 'IYATOTO CHOPPER87 25*75*36';
 var namagroup10 = 'HAT0R1';
 var Comment10 = '#HATORIBET*KAIDO29*77*17*74';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL BUGGY38 63*06*85';
 var namagroup12 = 'PEDRO';
-var Comment12 = '#PEDRO4D (RORONOA12*63*06*85)';
+var Comment12 = '#PEDRO4D (RORONOA12*77*17*74)';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( JINBEI39 ) : 66*44*96';
 var namagroup14 = 'KEITOGEL';
@@ -49,8 +49,8 @@ var namagroup15 = 'TOYIB';
 var Comment15 = '#TOYIBSLOT ( BOAHANCOK01 ) : 26*16*56';
 var namagroup16 = 'DIVA';
 var Comment16 = '#DIVA4D (DRACULE49) = 26*56*43';
-var namagroup17 = 'barat';
-var Comment17 = 'utara';
+var namagroup17 = 'utara';
+var Comment17 = 'barat';
 
 
 
@@ -61,7 +61,7 @@ var Comment18 = 'Hasil 1';
 
 
 var SCRIPT_NAME = Comment18
-var refresh = 60;
+var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Admin.json"
 var keyword = ["▇ █","ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo","l0mb4","lomb4","l0mba","𝗥𝟬𝟬𝗠","𝗟𝟬𝗠𝗕𝗔","𝘙𝘖𝘖𝘔","hatori","klikh4tori001"]
 var Backlist =["pemenang","rekap","natidulu","prediksi","result","𝗥𝗘𝗞𝗔𝗣","r3kap","rek4p" ]
