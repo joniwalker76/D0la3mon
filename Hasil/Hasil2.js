@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
-"var namagroup1 = 'ALLPAS';
+var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( ALGORES01 ) : 40*49*29';
 var namagroup2 = 'OPUNG';
 var Comment2 = 'OPUNG4D ( JASKELING02 ) : 40*49*29';
