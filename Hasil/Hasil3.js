@@ -17,7 +17,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-"var namagroup1 = 'ALLPAS';
+var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( MACANKUMU ) : 50*39*21';
 var namagroup2 = 'OPUNG';
 var Comment2 = 'OPUNG4D ( SINGAHUTAN ) : 50*39*21';
