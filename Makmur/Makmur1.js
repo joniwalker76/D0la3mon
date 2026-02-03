@@ -41,7 +41,7 @@ var Comment10 = '#JNETOTO(SPYDAK11)*63*09*64';
 var namagroup11 = 'TAFSIR';
 var Comment11 = 'SIJITOGEL FLEX77 13*70*99';
 var namagroup12 = 'DIVA';
-var Comment12 = '#DIVA4D (PROSS88) = 13*70*99';
+var Comment12 = '#DIVA4D (PROS88) = 13*70*99';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( DUCKTEL55 ) : 63*09*64';
 var namagroup14 = 'KEI';
