@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur3
 // @namespace    http://tampermonkey.net/
-// @version      4.4
+// @version      4.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur3.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur3.js
@@ -227,7 +227,7 @@ if(document.location.href.includes("group")){
                                 }
                             } else {
                                 setTimeout(() => {
-                                    if (btn.textContent.includes("Paling relevan")) {
+                                    if (btn.textContent.includes("Aktivitas terbaru")) {
                                         btn.click();
                                         countA = 3;
                                     }
