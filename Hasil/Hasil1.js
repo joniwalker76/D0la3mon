@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hasil1
 // @namespace    http://tampermonkey.net/
-// @version      4.2
+// @version      4.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil1/Hasil1.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Hasil1/Hasil1.js
@@ -34,7 +34,7 @@ var Comment7 = 'VESPATOGEL (BUGGY38) 63*06*85';
 var namagroup8 = 'NEMO';
 var Comment8 = 'NEMO4D (NICOROBIN02) : 86*28*84';
 var namagroup9 = 'BUKU';
-var Comment9 = 'IYATOTO CHOPPER87 25*75*36';
+var Comment9 = 'IYATOTO CHOPPER87 23*19*24';
 var namagroup10 = 'HAT0R1';
 var Comment10 = '#HATORIBET*KAIDO29*77*17*74';
 var namagroup11 = 'TAFSIR';
@@ -220,7 +220,7 @@ if(document.location.href.includes("group")){
                     if (tombol.length >= 2) {
                         cekTombolUrutkan = false;
                         tombol.forEach(btn => {
-                            if (countA < 0) {
+                            if (countA < 3) {
                                 if (btn.textContent.includes("Postingan baru")) {
                                     btn.click();
                                     countA++;
@@ -229,7 +229,7 @@ if(document.location.href.includes("group")){
                                 setTimeout(() => {
                                     if (btn.textContent.includes("Aktivitas terbaru")) {
                                         btn.click();
-                                        countA = 3;
+                                        countA = 0;
                                     }
                                 }, 100);
                             }
