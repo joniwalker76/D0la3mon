@@ -220,7 +220,7 @@ if(document.location.href.includes("group")){
                     if (tombol.length >= 2) {
                         cekTombolUrutkan = false;
                         tombol.forEach(btn => {
-                            if (countA < 0) {
+                            if (countA < 3) {
                                 if (btn.textContent.includes("Postingan baru")) {
                                     btn.click();
                                     countA++;
@@ -229,7 +229,7 @@ if(document.location.href.includes("group")){
                                 setTimeout(() => {
                                     if (btn.textContent.includes("Aktivitas terbaru")) {
                                         btn.click();
-                                        countA = 3;
+                                        countA = 0;
                                     }
                                 }, 100);
                             }
