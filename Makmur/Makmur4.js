@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur4
 // @namespace    http://tampermonkey.net/
-// @version      4.7
+// @version      4.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
@@ -354,7 +354,7 @@ async function botKoment(mutatin) {
                 const textarea = document.querySelector(".multi-line-floating-textbox");
                 const sendBtn = document.querySelector(".textbox-submit-button");
                 if (textarea && sendBtn) {
-                    textarea.focus();
+                    
                     textarea.value = commentToPost;
                     sendBtn.disabled = false;
                     const clickEvent = document.createEvent("MouseEvents");
@@ -363,8 +363,7 @@ async function botKoment(mutatin) {
 
                     GM.setValue("group_" + grouptToPost, true);
                     GM.setValue("group_"+grouptToPost+"_expire", Date.now() + EXPIRATION_MS);
-                    console.log("✅ Komentar DIKIRIM (via dispatch):", commentToPost);
-                    showNotification("Komentar Sudah Terkirim : " + commentToPost);
+                    
                     isCommenting = true;
 
                     kondisiStop = true
