@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Andalan4
 // @namespace    http://tampermonkey.net/
-// @version      4.2
+// @version      4.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan4.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Andalan/Andalan4.js
@@ -31,7 +31,7 @@ var namagroup6 = 'Hoho';
 var Comment6 = 'GOR3NG4N : 17*26*70 #HOHOTOGEL';
 var namagroup7 = 'BUKU';
 var Comment7 = 'IYATOTO COKL4T 78*36*28';
-var namagroup8 = 'HAT0R1';
+var namagroup8 = 'INFO';
 var Comment8 = '#HATORIBET*MI3GOR3NG*86*66*52';
 var namagroup9 = 'PEDRO';
 var Comment9 = '#PEDRO4D (R3ND4NG*22*73*74)';
