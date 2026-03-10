@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Makmur4
 // @namespace    http://tampermonkey.net/
-// @version      4.8
+// @version      4.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
 // @downloadURL  https://raw.githubusercontent.com/joniwalker76/D0la3mon/refs/heads/main/Makmur/Makmur4.js
@@ -48,7 +48,7 @@ var namagroup14 = 'KEI';
 var Comment14 = '#keitogel = (VITINHAA) = 52*29*03';
 var namagroup15 = 'TOYIB';
 var Comment15 = '#TOYIBSLOT ( ASENSIOO ) : 88*44*10';
-var namagroup16 = 'HAT0R1';
+var namagroup16 = 'INFO';
 var Comment16 = '#HATORIBET*EFFYU11*88*44*36';
 var namagroup17 = 'provinsi';
 var Comment17 = 'kabupaten';
